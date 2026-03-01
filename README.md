@@ -1,6 +1,7 @@
 <div align="center">
    <h1>ShopSense - Modern Grocery E-Commerce Application</h1>
 </div>
+Click Here: To live hosting
 <a href = "https://www.shopsense.kesug.com">Shop Sense</a>
 
 A full-stack, enterprise-level grocery e-commerce web application designed for a seamless shopping experience. The platform features distinct User and Admin roles, a real-time product management dashboard, dynamic cart state, and a streamlined WhatsApp checkout process.
